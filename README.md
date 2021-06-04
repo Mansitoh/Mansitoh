@@ -7,7 +7,10 @@
   <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-
+## ABOUT ME
+- [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Mansitoh) I’m currently learning **Java**
+- 🔭 I’m currently collaborate on [FrozedClubDevelopment](https://github.com/FrozedClubDevelopment)
+- 📫 How to reach me **dev@ryzeon.me**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mansitoh&theme=merko)](https://github.com/Mansitoh)
 
