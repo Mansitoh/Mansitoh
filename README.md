@@ -8,7 +8,7 @@
 </a>
 
 ## ABOUT ME
-- [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Mansitoh) I’m currently learning **Java**
+- [![java](./src/java.svg)](https://badges.aleen42.com/src/java.svg) I’m currently learning **Java**
 - 🔭 I’m currently collaborate on [FrozedClubDevelopment](https://github.com/FrozedClubDevelopment)
 - 📫 How to reach me **dev@ryzeon.me**
 
