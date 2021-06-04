@@ -9,8 +9,8 @@
 
 ## ABOUT ME
 - [![java](https://raw.githubusercontent.com/aleen42/badges/master/src/java.svg)](https://badges.aleen42.com/src/java.svg) I’m currently learning **Java**
-- 🔭 I’m currently collaborate on [FrozedClubDevelopment](https://github.com/FrozedClubDevelopment)
-- 📫 How to reach me **dev@ryzeon.me**
+- 🔭 I’m currently CEO on [SkilledDevelopment](https://discord.link/Skilled)
+- 📫 How to reach me **developermansitoh@gmail.com**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mansitoh&theme=merko)](https://github.com/Mansitoh)
 
