@@ -5,5 +5,5 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mansitoh&theme=blue-green)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mansitoh&theme=blue-green)](https://github.com/Mansitoh)
 
