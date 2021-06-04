@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Mansitoh-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Mansitoh_Py)](https://twitter.com/Mansitoh_Py)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Mansitoh/ama)
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Skilled20%|20%Development&logo=discord&style=flat-square)](https://discord.link/Skilled)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Skilled|Development&logo=discord&style=flat-square)](https://discord.link/Skilled)
 
 
 
