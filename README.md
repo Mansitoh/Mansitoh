@@ -18,8 +18,3 @@
 <a href="https://github.com/Mansitoh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansitoh&layout=compact&theme=merko" alt="Mansitoh's langs" />
 </a>
-NAME: custom
-ICON: 'https://simpleicons.now.sh/counter-strike/e43'
-STATUS: 'Custom Icons'
-COLOR: red
-GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
