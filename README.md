@@ -7,3 +7,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mansitoh&theme=merko)](https://github.com/Mansitoh)
 
+
+<a href="https://github.com/Mansitoh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansitoh&layout=compact&theme=merko" alt="Mansitoh's langs" />
+</a>
