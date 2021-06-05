@@ -8,7 +8,7 @@
 </a>
 
 ## ABOUT ME
-- [![java](https://raw.githubusercontent.com/aleen42/badges/master/src/java.svg)](https://badges.aleen42.com/src/java.svg) I’m currently learning **Java**
+- [![java](https://raw.githubusercontent.com/aleen42/badges/master/src/java.svg)](https://badges.aleen42.com/src/java.svg) I’m currently learning **Java** (1 year & 7 Months Experience)
 - 🔭 I’m currently CEO on [**Skilled Development**](https://discord.link/Skilled)
 - 📫 How to reach me **developermansitoh@gmail.com**
 
