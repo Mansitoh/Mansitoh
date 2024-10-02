@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Mansitoh-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Mansitoh_Py)](https://twitter.com/Mansitoh_Py)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Mansitoh/ama)
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Skilled&logo=discord&style=flat-square)](https://discord.link/Skilled)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=Skilled&logo=discord&style=flat-square)]([https://discord.link/Skilled](https://discord.com/invite/SzjwuhhVty))
 <a href="https://discordapp.com/users/504384677335793675/">
   <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
